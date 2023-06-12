@@ -1,5 +1,5 @@
 ## To create a basic link, we wrap text or other content inside what element? 
-<a> element 
+the a element 
 
 ## The href attribute contains what information?  
 Web address 
@@ -60,5 +60,5 @@ A. I can see how others think when they code and find new way to things
 
 B. I will build relationships and friendships with my fellow software developers 
 
-
+## Things I want to know more about
 
