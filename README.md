@@ -10,18 +10,18 @@ They understand stand that failure is apart of the journey.  Those with growth m
 2.  REMEMBER EVERYTHING HAPPENS FOR A REASON 
 3. Get comfortable being uncomfortable (you can’t grow unless you get outside your bubble) 
 
-Vist my Git Hub Page: https://github.com/SGChristian
+Vist my Git Hub Page: https://github.com/ShekinahChristi
 
 # Table of Contents 
 ## Code 102 Reading Notes
-1. [Read-01.](https://SGChristian.github.io/reading-notes/102/Read-01)   
-1. [Read-02.](https://SGChristian.github.io/reading-notes/102/read-02)
-1. [Read-03.](https://SGChristian.github.io/reading-notes/102/read-03)
-1. [Read-04.](https://SGChristian.github.io/reading-notes/102/read-04)
-1. [Read-05.](https://SGChristian.github.io/reading-notes/102/read-05)
-1. [Read-06.](https://SGChristian.github.io/reading-notes/102/read-06)
-1. [Read-07.](https://SGChristian.github.io/reading-notes/102/read-07)
-1. [Read-08.](https://SGChristian.github.io/reading-notes/102/read-08)
+1. [Read-01.](https://ShekinahChristi.github.io/reading-notes/102/Read-01)   
+1. [Read-02.](https://ShekinahChristi.github.io/reading-notes/102/read-02)
+1. [Read-03.](https://ShekinahChristi.github.io/reading-notes/102/read-03)
+1. [Read-04.](https://ShekinahChristi.github.io/reading-notes/102/read-04)
+1. [Read-05.](https://ShekinahChristi.github.io/reading-notes/102/read-05)
+1. [Read-06.](https://ShekinahChristi.github.io/reading-notes/102/read-06)
+1. [Read-07.](https://ShekinahChristi.github.io/reading-notes/102/read-07)
+1. [Read-08.](https://ShekinahChristi.github.io/reading-notes/102/read-08)
 
 ## Code 201 Reading Notes
 [Read-01.]()
