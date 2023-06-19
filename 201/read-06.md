@@ -26,3 +26,5 @@ he DOM (Document Object Model) is essentially the API one uses to manipulate an 
 As others have said, the DOM (Document Object Model) is essentially the API one uses to manipulate an HTML (or XML) document -- usually using JavaScript, since that's the language we have in the browser, but not always, as there are DOM-like APIs for manipulating these documents in other languages on the server side or the desktop.
 
 JavaScript is just a programming language. It happens to be the de facto standard scripting language for most (if not all) web browsers, and so in practice, most of the time when you're writing DOM manipulation scripts to be run on the client side, you're working with both the DOM and JavaScript at the same time.
+
+## Things I want to know more about

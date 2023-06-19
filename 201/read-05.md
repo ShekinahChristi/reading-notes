@@ -36,3 +36,5 @@ style is used to turn italic text on or off, though it’ll rarely be used. Weig
 
 ## Describe two ways you could add spacing around the characters displayed in an h1 element
 You could add a margin right tag or a margin left tag to give it the proper space to fit depending on what’s around the h1 element.
+
+## Things I want to know more about
