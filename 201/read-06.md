@@ -1,6 +1,6 @@
 
 ## How would you describe an object to a non-technical friend you grew up with?
-a collection of information that has functions or equations related to it.
+A collection of information that holds data from fuctions or problems
 
 ## What are some advantages to creating object literals?
 
