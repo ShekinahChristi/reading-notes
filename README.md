@@ -29,7 +29,7 @@ Vist my Git Hub Page: https://github.com/ShekinahChristi
 [Read-03.]()
 [Read-04.](https://ShekinahChristi.github.io/reading-notes/201/read-04)
 [Read-05.](https://ShekinahChristi.github.io/reading-notes/201/read-05)
-[Read-06.]()
+[Read-06.](https://ShekinahChristi.github.io/reading-notes/201/read-06)
 [Read-7.]()
 [Read-8.]()
 [Read-9.]()
