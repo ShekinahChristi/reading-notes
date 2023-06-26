@@ -22,4 +22,6 @@ Makes all children of a container take up an equal amount of the available width
 Makes all columns in a multiple-column layout adopt the same height even if they contain a different amount of content.
 
 ## How does this topic connect with your long term goals?
-This topic doesnt help alot but I can see how it can be useful if someone is paying me to create a website 
+This topic doesnt help alot but I can see how it can be useful if someone is paying me to create a website
+
+## Things I want to know more about
