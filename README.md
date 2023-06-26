@@ -24,9 +24,9 @@ Vist my Git Hub Page: https://github.com/ShekinahChristi
 1. [Read-08.](https://ShekinahChristi.github.io/reading-notes/102/read-08)
 
 ## Code 201 Reading Notes
-[Read-01.]()
-[Read-02.]()
-[Read-03.]()
+[Read-01.](https://ShekinahChristi.github.io/reading-notes/201/read-01)
+[Read-02.](https://ShekinahChristi.github.io/reading-notes/201/read-02)
+[Read-03.](https://ShekinahChristi.github.io/reading-notes/201/read-03)
 [Read-04.](https://ShekinahChristi.github.io/reading-notes/201/read-04)
 [Read-05.](https://ShekinahChristi.github.io/reading-notes/201/read-05)
 [Read-06.](https://ShekinahChristi.github.io/reading-notes/201/read-06)
