@@ -2,7 +2,7 @@
 Audio and Video
 ## Explain how the ability to use video and audio on the web has evolved since the early 2000s.
 
-in a professional environment the use of video and audio has increased through meetings and work structure.
+ professional environment the use of video and audio has increased through meetings and work structure.
 
 ## User accessibility has grown tremendously since the 2000's where anyone anywhere can create videos and audio and use them as well and aren't as confined to the use cases of them.
 
