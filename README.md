@@ -35,9 +35,7 @@ Vist my Git Hub Page: https://github.com/ShekinahChristi
 [Read-9.](https://ShekinahChristi.github.io/reading-notes/201/read-09)
 [Read-10.](https://ShekinahChristi.github.io/reading-notes/201/read-10)
 [Read-11.](https://ShekinahChristi.github.io/reading-notes/201/read-011)
-[Read-12.]()
-[Read-13.]()
-[Read-14.]()
-[Read-15.]()
-
-
+[Read-12.](https://ShekinahChristi.github.io/reading-notes/201/read-012)
+[Read-13.](https://ShekinahChristi.github.io/reading-notes/201/read-013)
+[Read-14.](https://ShekinahChristi.github.io/reading-notes/201/read-014)
+[Read-15.](https://ShekinahChristi.github.io/reading-notes/201/read-015)

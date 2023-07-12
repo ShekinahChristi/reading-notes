@@ -1,4 +1,4 @@
-## Name some key differences between a Syntax Error and a Logic Error
+## giName some key differences between a Syntax Error and a Logic Error
 
 Syntax errors are when there are spelling errors in your code that cause the program to not run, or stop part way through. These usually are okay to fix as long as you know what the error message means.
 
@@ -26,6 +26,8 @@ The call stack is a section that shows you what code was executed to get to the 
 
 
 
+
+Code review for class 10 
 ## Assume you are in a pair programming session, and are the navigator. Your driver for this exercise will be a chatbot of your choice. 
 For each of the lines of code below, provide the (nerdy) english instructions that you would describe to the chatbot so that it will return the code shown.
 
