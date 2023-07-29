@@ -20,4 +20,6 @@ The listener, that watches for the event and the handler which is the code that 
 Target property returns the HTML element that triggered an event. By using this property we can get access to the element's properties and attributes. We can also use the event target Javascript property to modify the properties of an element.
 ## What is the difference between event bubbling and event capturing?
 The event propagation mode determines in which order the elements receive the event. With bubbling, the event is first captured and handled by the innermost element and then propagated to outer elements. With capturing, the event is first captured by the outermost element and propagated to the inner elements.
- 
+  ## Things I want to know 
+
+  
