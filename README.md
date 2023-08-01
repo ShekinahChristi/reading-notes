@@ -38,4 +38,4 @@ Vist my Git Hub Page: https://github.com/ShekinahChristi
 [Read-12.](https://ShekinahChristi.github.io/reading-notes/201/read-12)
 [Read-13.](https://ShekinahChristi.github.io/reading-notes/201/read-13)
 [Read-14.](https://ShekinahChristi.github.io/reading-notes/201/read-14)
-[Read-15.](https://ShekinahChristi.github.io/reading-notes/201/read-015)
+[Read-15.](https://ShekinahChristi.github.io/reading-notes/201/read-15)
